@@ -2,9 +2,9 @@
 ## Descripción.
 En el código de inicio de esta actividad, el evento de movimiento del mouse se usa para actualizar la posición del elemento "ojo" que se muestra en la página. 
 ## Uso.
-Cuando abras el código en alguna página en blanco y aparezcan los ojos moveras tu cursor del mouse y veras que los ojos te seguiran hacia donde estes realizando el movimiento. 
+Cuando abras el código en alguna página en blanco y aparezcan los ojos moverás tu cursor del mouse y veras que los ojos te seguirán hacia donde estes realizando el movimiento. 
 ## Roadmap.
-A futuro podria experimentar agregando mas ojos.
+A futuro podria experimentar agregando más ojos.
 ## Licencia.
 MIT License
 
